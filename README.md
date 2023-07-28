@@ -5,4 +5,4 @@ we are going to answer one question - “Which Method of filtering produces bett
 
 Data used : MovieLens-100k - http://files.grouplens.org/datasets/movielens/ml-100k.zip
 
-![IMAGE_DESCRIPTION](url_of_image)
+![IMAGE_DESCRIPTION](Screenshot 2023-07-28 at 12.36.02 PM.png)
